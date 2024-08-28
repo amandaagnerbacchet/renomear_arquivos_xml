@@ -1,0 +1,10 @@
+
+<contatos>
+    <contato>
+        <nome>Carlos Pereira</nome>
+        <email>carlos.pereira@example.com</email>
+        <telefone>(31) 99876-5432</telefone>
+        <cnpj>11.223.344/0001-55</cnpj>
+    </contato>
+    <?xml version="1.0" encoding="UTF-8"?>
+</contatos>

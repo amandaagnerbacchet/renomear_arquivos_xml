@@ -1,0 +1,211 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41240729868365000114650010000038501100038507" versao="4.00">
+<ide>
+<cUF>41</cUF>
+<cNF>10003850</cNF>
+<natOp>Venda de mercadoria adquirida ou recebida de terceiros</natOp>
+<mod>65</mod>
+<serie>1</serie>
+<nNF>3850</nNF>
+<dhEmi>2024-07-09T14:15:55-03:00</dhEmi>
+<tpNF>1</tpNF>
+<idDest>1</idDest>
+<cMunFG>4101408</cMunFG>
+<tpImp>4</tpImp>
+<tpEmis>1</tpEmis>
+<cDV>7</cDV>
+<tpAmb>1</tpAmb>
+<finNFe>1</finNFe>
+<indFinal>1</indFinal>
+<indPres>1</indPres>
+<procEmi>0</procEmi>
+<verProc>1.0.01</verProc>
+</ide>
+<emit>
+<CNPJ>29868365000114</CNPJ>
+<xNome>DZIADUCKI COMERCIO DE VESTUARIO LTDA</xNome>
+<xFant>DZIADUCKI COMERCIO DE VESTUARIO LTDA</xFant>
+<enderEmit>
+<xLgr>RUA DOUTOR OSWALDO CRUZ</xLgr>
+<nro>293</nro>
+<xBairro>CENTRO</xBairro>
+<cMun>4101408</cMun>
+<xMun>APUCARANA</xMun>
+<UF>PR</UF>
+<CEP>86800720</CEP>
+<cPais>1058</cPais>
+<xPais>BRASIL</xPais>
+<fone>4334222417</fone>
+</enderEmit>
+<IE>9077474410</IE>
+<CRT>1</CRT>
+</emit>
+<det nItem="1">
+<prod>
+<cProd>S12653</cProd>
+<cEAN>SEM GTIN</cEAN>
+<xProd>BRINCO GOTA 2 BANHOS TEXTURIZADO</xProd>
+<NCM>71131100</NCM>
+<CFOP>5102</CFOP>
+<uCom>UN</uCom>
+<qCom>1.0000</qCom>
+<vUnCom>99.9000</vUnCom>
+<vProd>99.90</vProd>
+<cEANTrib>SEM GTIN</cEANTrib>
+<uTrib>UN</uTrib>
+<qTrib>1.0000</qTrib>
+<vUnTrib>99.9000</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<vTotTrib>3.00</vTotTrib>
+<ICMS>
+<ICMSSN102>
+<orig>0</orig>
+<CSOSN>102</CSOSN>
+</ICMSSN102>
+</ICMS>
+</imposto>
+</det>
+<det nItem="2">
+<prod>
+<cProd>S11458</cProd>
+<cEAN>SEM GTIN</cEAN>
+<xProd>ARGOLA TRIANGULAR MAIOR CREVEJADA MICROZIRCONIAS</xProd>
+<NCM>71131100</NCM>
+<CFOP>5102</CFOP>
+<uCom>UN</uCom>
+<qCom>1.0000</qCom>
+<vUnCom>160.0000</vUnCom>
+<vProd>160.00</vProd>
+<cEANTrib>SEM GTIN</cEANTrib>
+<uTrib>UN</uTrib>
+<qTrib>1.0000</qTrib>
+<vUnTrib>160.0000</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<vTotTrib>4.80</vTotTrib>
+<ICMS>
+<ICMSSN102>
+<orig>0</orig>
+<CSOSN>102</CSOSN>
+</ICMSSN102>
+</ICMS>
+</imposto>
+</det>
+<det nItem="3">
+<prod>
+<cProd>S12534</cProd>
+<cEAN>SEM GTIN</cEAN>
+<xProd>BRINCO FLUIDO CRAVACAO ZIRCONIA</xProd>
+<NCM>71131100</NCM>
+<CFOP>5102</CFOP>
+<uCom>UN</uCom>
+<qCom>1.0000</qCom>
+<vUnCom>130.0000</vUnCom>
+<vProd>130.00</vProd>
+<cEANTrib>SEM GTIN</cEANTrib>
+<uTrib>UN</uTrib>
+<qTrib>1.0000</qTrib>
+<vUnTrib>130.0000</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<vTotTrib>3.90</vTotTrib>
+<ICMS>
+<ICMSSN102>
+<orig>0</orig>
+<CSOSN>102</CSOSN>
+</ICMSSN102>
+</ICMS>
+</imposto>
+</det>
+<total>
+<ICMSTot>
+<vBC>0.00</vBC>
+<vICMS>0.00</vICMS>
+<vICMSDeson>0.00</vICMSDeson>
+<vFCPUFDest>0.00</vFCPUFDest>
+<vICMSUFDest>0.00</vICMSUFDest>
+<vICMSUFRemet>0.00</vICMSUFRemet>
+<vFCP>0.00</vFCP>
+<vBCST>0.00</vBCST>
+<vST>0.00</vST>
+<vFCPST>0.00</vFCPST>
+<vFCPSTRet>0.00</vFCPSTRet>
+<vProd>389.90</vProd>
+<vFrete>0.00</vFrete>
+<vSeg>0.00</vSeg>
+<vDesc>0.00</vDesc>
+<vII>0.00</vII>
+<vIPI>0.00</vIPI>
+<vIPIDevol>0.00</vIPIDevol>
+<vPIS>0.00</vPIS>
+<vCOFINS>0.00</vCOFINS>
+<vOutro>0.00</vOutro>
+<vNF>389.90</vNF>
+<vTotTrib>11.70</vTotTrib>
+</ICMSTot>
+</total>
+<transp>
+<modFrete>9</modFrete>
+</transp>
+<pag>
+<detPag>
+<indPag>1</indPag>
+<tPag>99</tPag>
+<xPag>NOTA PROMISSORIA</xPag>
+<vPag>389.90</vPag>
+</detPag>
+</pag>
+<infAdic>
+<infCpl>Obrigado pela preferencia\delimiter volte sempre!</infCpl>
+</infAdic>
+<infRespTec>
+<CNPJ>03758188000120</CNPJ>
+<xContato>REVOLUTION INFORMATICA LTDA</xContato>
+<email>rv.revolution@hotmail.com</email>
+<fone>4341015360</fone>
+</infRespTec>
+</infNFe>
+<infNFeSupl>
+<qrCode>http://www.fazenda.pr.gov.br/nfce/qrcode/?p=41240729868365000114650010000038501100038507|2|1|1|F54AA90F298331F917B5252723B1EF3AA19F97B7</qrCode>
+<urlChave>http://www.fazenda.pr.gov.br/nfce/consulta</urlChave>
+</infNFeSupl>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#NFe41240729868365000114650010000038501100038507">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>PlibSJVmlelpe/hlZSoooqDhByk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>BSSKmXFPPN1DVDJfsdl7HLwKqMBVvHwFsntXN9HXeHhxXoIBCWNmiETvWB6DWiS3q6mP9McdGxnHVQmvwhvJyjNhKhxiArbmRq/5BIspvhmXWSBrlm70Jg4VvtMAnH8sJwqF1T874U++gFQCTVZevPNjQ5LvFEGR0kE6ZX5wHxbMwXGdR2GOu4LGeoAwAYtnu+DpThX1b3i3/pSrZ5sOawms4y4hvOZgbkKpsdvlzU08QbJEFUN0N/TujnqRvgO0bQuh4IkD56t2iSpXQBLsYTRhRDKsvW/9F8PeQcIeDb/AajpDAIMCpsZN2quNjyD8YB1DQfeon3yW/q83SJVjDA==</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>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</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</NFe>
+<protNFe versao="4.00">
+<infProt Id="ID141241046016522">
+<tpAmb>1</tpAmb>
+<verAplic>PR-v4_4_67</verAplic>
+<chNFe>41240729868365000114650010000038501100038507</chNFe>
+<dhRecbto>2024-07-09T14:15:55-03:00</dhRecbto>
+<nProt>141241046016522</nProt>
+<digVal>PlibSJVmlelpe/hlZSoooqDhByk=</digVal>
+<cStat>100</cStat>
+<xMotivo>negado NF-e</xMotivo>
+</infProt>
+</protNFe>
+</nfeProc>
